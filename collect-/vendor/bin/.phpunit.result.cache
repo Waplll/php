@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"CollectTest::testCount":0.007,"ExceptTest::testExceptSingleKey":0.003,"ExceptTest::testExceptMultipleKeys":0,"GetTest::testGetSingleKey":0,"GetTest::testGetAll":0,"KeysTest::testKeys":0,"ValuesTest::testValues":0}}
